@@ -22,11 +22,11 @@
     "tBase": "https://cdn.jsdelivr.net/gh/7uplive/x-a@main/assets/proj_7u0ir7nh/media_k0hw7ovw.jpg"
   },
   "uniforms": {
-    "uTime": 2684.0595,
-    "u_baseAspect": 1,
+    "uTime": 2850.540100000024,
+    "u_baseAspect": 0.9765625,
     "uMouse": [
-      0.11988668549215992,
-      0.008495935295270214
+      1.391896366740458,
+      0.04122281498816632
     ],
     "u_0_amount": 0.5,
     "u_0_maskWarp": 0
@@ -142,6 +142,11 @@
         -0.209,
         0.185
       ]
+    },
+    {
+      "a": "fill",
+      "l": 0,
+      "color": "black"
     }
   ]
 }
