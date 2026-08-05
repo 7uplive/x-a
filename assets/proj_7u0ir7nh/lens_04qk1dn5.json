@@ -1,5 +1,5 @@
 {
-  "artboardWidth": 1376,
+  "artboardWidth": 1000,
   "artboardHeight": 768,
   "baseImage": "https://cdn.jsdelivr.net/gh/7uplive/x-a@main/assets/proj_7u0ir7nh/media_bhwu2802.jpeg",
   "layers": [
@@ -22,11 +22,11 @@
     "tBase": "https://cdn.jsdelivr.net/gh/7uplive/x-a@main/assets/proj_7u0ir7nh/media_bhwu2802.jpeg"
   },
   "uniforms": {
-    "uTime": 373.7317000000477,
+    "uTime": 592.9627000000477,
     "u_baseAspect": 1.7916666666666667,
     "uMouse": [
-      0.2808215630925498,
-      0.016053323621953323
+      -0.17375543715825478,
+      0.009754812028557913
     ],
     "u_0_amount": 0.06,
     "u_0_maskWarp": 0
