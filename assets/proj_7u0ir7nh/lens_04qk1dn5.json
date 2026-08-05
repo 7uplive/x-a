@@ -1,5 +1,5 @@
 {
-  "artboardWidth": 1024,
+  "artboardWidth": 1000,
   "artboardHeight": 1024,
   "baseImage": "https://cdn.jsdelivr.net/gh/7uplive/x-a@main/assets/proj_7u0ir7nh/media_k0hw7ovw.jpg",
   "layers": [
@@ -22,11 +22,11 @@
     "tBase": "https://cdn.jsdelivr.net/gh/7uplive/x-a@main/assets/proj_7u0ir7nh/media_k0hw7ovw.jpg"
   },
   "uniforms": {
-    "uTime": 2537.545100000024,
+    "uTime": 2684.0595,
     "u_baseAspect": 1,
     "uMouse": [
-      -0.4011929591965587,
-      0.0022055848876517416
+      0.11988668549215992,
+      0.008495935295270214
     ],
     "u_0_amount": 0.5,
     "u_0_maskWarp": 0
@@ -126,6 +126,21 @@
         0.615,
         0.114,
         0.617
+      ]
+    },
+    {
+      "a": "stroke",
+      "l": 0,
+      "t": "paint",
+      "b": "airbrush",
+      "s": 60,
+      "f": 0.5,
+      "m": 1,
+      "pts": [
+        -0.209,
+        0.185,
+        -0.209,
+        0.185
       ]
     }
   ]
