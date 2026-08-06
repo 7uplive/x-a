@@ -22,11 +22,11 @@
     "tBase": "https://cdn.jsdelivr.net/gh/7uplive/x-a@main/assets/proj_7u0ir7nh/media_bhwu2802.jpeg"
   },
   "uniforms": {
-    "uTime": 2165.4751999999285,
+    "uTime": 2727.016,
     "u_baseAspect": 1.7916666666666667,
     "uMouse": [
-      0.6131076600054963,
-      0.012274495734511632
+      0.2513268144868716,
+      0.0047313727932246806
     ],
     "u_0_amount": 0.5,
     "u_0_maskWarp": 0
@@ -147,6 +147,36 @@
       "a": "fill",
       "l": 0,
       "color": "black"
+    },
+    {
+      "a": "stroke",
+      "l": 0,
+      "t": "paint",
+      "b": "airbrush",
+      "s": 60,
+      "f": 0.5,
+      "m": 1,
+      "pts": [
+        0.512,
+        0.445,
+        0.512,
+        0.445
+      ]
+    },
+    {
+      "a": "stroke",
+      "l": 0,
+      "t": "paint",
+      "b": "airbrush",
+      "s": 60,
+      "f": 0.5,
+      "m": 1,
+      "pts": [
+        0.39,
+        0.109,
+        0.39,
+        0.109
+      ]
     }
   ]
 }
