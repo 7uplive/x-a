@@ -8,7 +8,7 @@
       "visible": true,
       "target": "base",
       "params": {
-        "amount": 0.5,
+        "amount": 0.08,
         "maskWarp": 0
       },
       "imageUrls": {},
@@ -22,13 +22,13 @@
     "tBase": "https://cdn.jsdelivr.net/gh/7uplive/x-a@main/assets/proj_7u0ir7nh/media_bhwu2802.jpeg"
   },
   "uniforms": {
-    "uTime": 2727.016,
+    "uTime": 15.544899999976158,
     "u_baseAspect": 1.7916666666666667,
     "uMouse": [
-      0.2513268144868716,
-      0.0047313727932246806
+      0.07146885688893417,
+      0.004721808504035511
     ],
-    "u_0_amount": 0.5,
+    "u_0_amount": 0.08,
     "u_0_maskWarp": 0
   },
   "strokes": [
@@ -177,6 +177,16 @@
         0.39,
         0.109
       ]
+    },
+    {
+      "a": "fill",
+      "l": 0,
+      "color": "black"
+    },
+    {
+      "a": "fill",
+      "l": 0,
+      "color": "white"
     }
   ]
 }
